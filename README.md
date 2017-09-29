@@ -1,0 +1,2 @@
+# TTNetRequestManager
+基于AFNetworking3.X和YYCache的网络请求封装工具
